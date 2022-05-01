@@ -18,7 +18,9 @@ I am a passionate Game Developer with very good experience in Cocos, Javascript 
 * Analytics integration (Google Analytics, Flurry, etc.), 
 * Push notifications 
 * Smart contracts: Solidity 
-* Wallet integration: Metamask, Trustwallet, bitcoinSV etc I am even working with NFT, Cryptocurrency, Blockchain-based Projects: Ethereum, TRON, Solona, etc and am open to working on smart contracts development as well. I am well versed with development using version controls including SVN, Git, Bitbucket, etc. and Project Management/Bug Tracking Tools like Basecamp, Asana, Trello, Zoho, Mantis, Bugzilla, etc. I follow Agile Development Methodology (Scrum) to ensure constant and clear
+* Wallet integration: Metamask, Trustwallet, bitcoinSV etc 
+
+I am even working with NFT, Cryptocurrency, Blockchain-based Projects: Ethereum, TRON, Solona, etc and am open to working on smart contracts development as well. I am well versed with development using version controls including SVN, Git, Bitbucket, etc. and Project Management/Bug Tracking Tools like Basecamp, Asana, Trello, Zoho, Mantis, Bugzilla, etc. I follow Agile Development Methodology (Scrum) to ensure constant and clear
 
 * 🌍  I'm based in Chandigarh
 * 🖥️  See my portfolio at [MyPortfolio](http://chandankrishnani.github.io/)
