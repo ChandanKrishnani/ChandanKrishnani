@@ -4,7 +4,21 @@ Hi 👋 My name is Chandan Krishnani
 Full Stack and Blockchain Developer
 -----------------------------------
 
-I am a passionate Game Developer with very good experience in Cocos, Javascript & Typescript. I have developed several 2D games and interactive applications for Mobile/Web Areas of expertise: - Multiplatform 2D development for iOS, Android, Facebook and Web - UI/UX, Game design and Level design - Multiplayer programming: Real time and Turn based (Photon, AppWrap etc) - Particle Systems, Animations, Physics - Optimizing performance - Native plugins programming - Localization, XML/Json/SOAP, Serialization - Ad Networks integration (Chartboost, AdMob, Unity Ads, AdVungle etc) - Social integration (Facebook, Twitter, Google Plus, Instagram etc) - Game algorithms (AI) - Analytics integration (Google Analytics, Flurry, etc.), - Push notifications - Smart contracts: Solidity - Wallet integration: Metamask, Trustwallet, bitcoinSV etc I am even working with NFT, Cryptocurrency, Blockchain-based Projects: Ethereum, TRON, Solona, etc and am open to working on smart contracts development as well. I am well versed with development using version controls including SVN, Git, Bitbucket, etc. and Project Management/Bug Tracking Tools like Basecamp, Asana, Trello, Zoho, Mantis, Bugzilla, etc. I follow Agile Development Methodology (Scrum) to ensure constant and clear
+I am a passionate Game Developer with very good experience in Cocos, Javascript & Typescript. I have developed several 2D games and interactive applications for Mobile/Web Areas of expertise: 
+* Multiplatform 2D development for iOS, Android, Facebook and Web - 
+* UI/UX, Game design and Level design 
+* Multiplayer programming: Real time and Turn based (Photon, AppWrap etc) 
+* Particle Systems, Animations, Physics 
+* Optimizing performance 
+* Native plugins programming 
+* Localization, XML/Json/SOAP, Serialization 
+* Ad Networks integration (Chartboost, AdMob, Unity Ads, AdVungle etc) 
+* Social integration (Facebook, Twitter, Google Plus, Instagram etc) 
+* Game algorithms (AI) 
+* Analytics integration (Google Analytics, Flurry, etc.), 
+* Push notifications 
+* Smart contracts: Solidity 
+* Wallet integration: Metamask, Trustwallet, bitcoinSV etc I am even working with NFT, Cryptocurrency, Blockchain-based Projects: Ethereum, TRON, Solona, etc and am open to working on smart contracts development as well. I am well versed with development using version controls including SVN, Git, Bitbucket, etc. and Project Management/Bug Tracking Tools like Basecamp, Asana, Trello, Zoho, Mantis, Bugzilla, etc. I follow Agile Development Methodology (Scrum) to ensure constant and clear
 
 * 🌍  I'm based in Chandigarh
 * 🖥️  See my portfolio at [MyPortfolio](http://chandankrishnani.github.io/)
